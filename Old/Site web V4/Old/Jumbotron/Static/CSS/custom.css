@@ -1,0 +1,51 @@
+/* Personnalisation de la photo centrale & du jumbotron */
+
+#lablonde
+
+{
+    size:inherit;
+}
+
+.jumbotron
+
+{
+    background-color: white;
+}
+
+/* Personnalisation de la barre de navigation */
+
+.navbar-inverse
+{
+background-color: #428bca;
+border-color: #080808;
+}
+
+.navbar-inverse .navbar-brand {
+color: white;
+}
+
+.navbar-brand {
+float: left;
+height: 50px;
+padding: 15px 15px;
+font-size: 18px;
+line-height: 20px;
+color: white;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+color: white;
+background-color: transparent;
+}
+
+.btn-success {
+color: #fff;
+background-color: #5cb85c;
+border-color: #fff;
+}
+
+#logo_ABP
+{
+    width:30px;
+    height:inherit;
+}
